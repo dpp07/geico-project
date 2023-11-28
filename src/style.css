@@ -1,0 +1,32 @@
+#header
+{
+    border-bottom:1px solid #CCC;
+    padding-bottom:3px;
+    text-align: center;
+}
+#b
+{
+    border-bottom:1px solid #CCC;
+    padding-bottom:3px;
+}
+#a2
+{
+    border-bottom:1px solid #CCC;
+    padding-bottom:3px;
+    
+}
+#a3
+{
+    border-bottom:1px solid #CCC;
+    padding-bottom:3px;
+    
+}
+
+h2{
+    text-align: center;
+    
+}
+
+span {
+    color: blue;
+}
